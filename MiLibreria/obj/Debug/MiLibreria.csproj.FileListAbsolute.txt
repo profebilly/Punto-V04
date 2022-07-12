@@ -1,0 +1,6 @@
+C:\Users\d20c2090\source\repos\Punto-V04\MiLibreria\bin\Debug\MiLibreria.dll
+C:\Users\d20c2090\source\repos\Punto-V04\MiLibreria\bin\Debug\MiLibreria.pdb
+C:\Users\d20c2090\source\repos\Punto-V04\MiLibreria\obj\Debug\MiLibreria.csproj.AssemblyReference.cache
+C:\Users\d20c2090\source\repos\Punto-V04\MiLibreria\obj\Debug\MiLibreria.csproj.CoreCompileInputs.cache
+C:\Users\d20c2090\source\repos\Punto-V04\MiLibreria\obj\Debug\MiLibreria.dll
+C:\Users\d20c2090\source\repos\Punto-V04\MiLibreria\obj\Debug\MiLibreria.pdb
